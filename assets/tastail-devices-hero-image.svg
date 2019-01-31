@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="80px" viewBox="0 0 150 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Mock up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 3.000000)">
+            <g id="Desktop" transform="translate(35.000000, 0.000000)">
+                <g>
+                    <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="92" height="67" rx="2"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="31" y="71" width="32" height="4" rx="1"></rect>
+                    <rect id="Rectangle" stroke="#FFFFFF" opacity="0.5" x="5.5" y="4.5" width="83" height="60" rx="2"></rect>
+                </g>
+                <g id="desktop-ui" transform="translate(7.000000, 8.000000)" opacity="0.5" stroke="#FFFFFF">
+                    <rect id="Rectangle-6" x="0.5" y="0.5" width="79" height="5"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="13.5" width="38" height="1"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="16.5" width="38" height="1"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="19.5" width="38" height="1"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="22.5" width="16" height="1"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="46.5" width="15" height="1"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="49.5" width="12" height="1"></rect>
+                    <rect id="Rectangle-6" x="21.5" y="46.5" width="15" height="1"></rect>
+                    <rect id="Rectangle-6" x="21.5" y="49.5" width="12" height="1"></rect>
+                    <rect id="Rectangle-6" x="43.5" y="46.5" width="15" height="1"></rect>
+                    <rect id="Rectangle-6" x="43.5" y="49.5" width="12" height="1"></rect>
+                    <rect id="Rectangle-6" x="64.5" y="46.5" width="15" height="1"></rect>
+                    <rect id="Rectangle-6" x="64.5" y="49.5" width="12" height="1"></rect>
+                    <rect id="Rectangle-6" x="40.5" y="8.5" width="39" height="19"></rect>
+                    <rect id="Rectangle-6" x="0.5" y="31.5" width="15" height="13"></rect>
+                    <rect id="Rectangle-6" x="21.5" y="31.5" width="15" height="13"></rect>
+                    <rect id="Rectangle-6" x="43.5" y="31.5" width="15" height="13"></rect>
+                    <rect id="Rectangle-6" x="64.5" y="31.5" width="15" height="13"></rect>
+                </g>
+            </g>
+            <g id="iPad" transform="translate(0.000000, 27.000000)">
+                <path d="M5.5,7.5 L5.5,9.5 L28.5,9.5 L28.5,7.5 L5.5,7.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M10.5,12.5 L16,12.5 L15.5,12 L15.5,13 L16,12.5 L10.5,12.5 Z M10.5,12.5 L5,12.5 L5.5,13 L5.5,12 L5,12.5 L10.5,12.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M10.5,14.5 L16,14.5 L15.5,14 L15.5,15 L16,14.5 L10.5,14.5 Z M10.5,14.5 L5,14.5 L5.5,15 L5.5,14 L5,14.5 L10.5,14.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M10.5,16.5 L16,16.5 L15.5,16 L15.5,17 L16,16.5 L10.5,16.5 Z M10.5,16.5 L5,16.5 L5.5,17 L5.5,16 L5,16.5 L10.5,16.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M8.5,18.5 L12,18.5 L11.5,18 L11.5,19 L12,18.5 L8.5,18.5 Z M8.5,18.5 L5,18.5 L5.5,19 L5.5,18 L5,18.5 L8.5,18.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M17.5,11.5 L17.5,22.5 L28.5,22.5 L28.5,11.5 L17.5,11.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <g id="Group-2" transform="translate(5.000000, 25.000000)" opacity="0.5" stroke="#FFFFFF">
+                    <path d="M5.5,10.5 L11,10.5 L10.5,10 L10.5,11 L11,10.5 L5.5,10.5 Z M5.5,10.5 L0,10.5 L0.5,11 L0.5,10 L0,10.5 L5.5,10.5 Z" id="Rectangle-6"></path>
+                    <path d="M3.5,12.5 L7,12.5 L6.5,12 L6.5,13 L7,12.5 L3.5,12.5 Z M3.5,12.5 L0,12.5 L0.5,13 L0.5,12 L0,12.5 L3.5,12.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,0.5 L0.5,8.5 L10.5,8.5 L10.5,0.5 L0.5,0.5 Z" id="Rectangle-6"></path>
+                    <polyline id="Rectangle-6" points="0 18 0 15 0 15 11 15 11 18"></polyline>
+                    <path d="M18.5,10.5 L24,10.5 L23.5,10 L23.5,11 L24,10.5 L18.5,10.5 Z M18.5,10.5 L13,10.5 L13.5,11 L13.5,10 L13,10.5 L18.5,10.5 Z" id="Rectangle-6"></path>
+                    <path d="M13.5,0.5 L13.5,8.5 L23.5,8.5 L23.5,0.5 L13.5,0.5 Z" id="Rectangle-6"></path>
+                    <polyline id="Rectangle-6" points="13 18 13 15 13 15 24 15 24 18"></polyline>
+                </g>
+                <path d="M9.5,47.5 L16,47.5 L15.5,47 L15.5,48 L16,47.5 L9.5,47.5 Z M9.5,47.5 L3,47.5 L3.5,48 L3.5,47 L3,47.5 L9.5,47.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M24.5,47.5 L31,47.5 L30.5,47 L30.5,48 L31,47.5 L24.5,47.5 Z M24.5,47.5 L18,47.5 L18.5,48 L18.5,47 L18,47.5 L24.5,47.5 Z" id="Rectangle-6" stroke="#FFFFFF" opacity="0.5"></path>
+                <path d="M4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,44 C0.5,45.9329966 2.06700338,47.5 4,47.5 L30,47.5 C31.9329966,47.5 33.5,45.9329966 33.5,44 L33.5,4 C33.5,2.06700338 31.9329966,0.5 30,0.5 L4,0.5 Z" id="Rectangle-3" stroke="#FFFFFF"></path>
+                <path d="M4,5.5 C3.72385763,5.5 3.5,5.72385763 3.5,6 L3.5,43 C3.5,43.2761424 3.72385763,43.5 4,43.5 L30,43.5 C30.2761424,43.5 30.5,43.2761424 30.5,43 L30.5,6 C30.5,5.72385763 30.2761424,5.5 30,5.5 L4,5.5 Z" id="Rectangle-3" stroke="#FFFFFF" opacity="0.5"></path>
+                <circle id="Oval" fill="#FFFFFF" opacity="0.5" cx="16.5" cy="3.5" r="1"></circle>
+                <circle id="Oval" stroke="#FFFFFF" opacity="0.5" cx="16" cy="45" r="1"></circle>
+            </g>
+            <g id="iPhone" transform="translate(129.000000, 42.000000)">
+                <g id="iPhone-ui" transform="translate(3.000000, 4.000000)" opacity="0.5" stroke="#FFFFFF">
+                    <rect id="Rectangle-6" x="0.5" y="0.5" width="11" height="1.98408488"></rect>
+                    <path d="M0.5,4.5 L11.5,4.5 L11.5,4.57692308 L11.5769231,4.5 L12,4.5 L11.7884615,4.28846154 L12,4.07692308 L11.5769231,4.07692308 L11.5,4 L11.5,4.07692308 L0.5,4.07692308 L0.5,4 L0.423076923,4.07692308 L0,4.07692308 L0.211538462,4.28846154 L0,4.5 L0.423076923,4.5 L0.5,4.57692308 L0.5,4.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,5.5 L11.5,5.5 L11.5,5.57692308 L11.5769231,5.5 L12,5.5 L11.7884615,5.28846154 L12,5.07692308 L11.5769231,5.07692308 L11.5,5 L11.5,5.07692308 L0.5,5.07692308 L0.5,5 L0.423076923,5.07692308 L0,5.07692308 L0.211538462,5.28846154 L0,5.5 L0.423076923,5.5 L0.5,5.57692308 L0.5,5.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,6.5 L11.5,6.5 L11.5,6.57692308 L11.5769231,6.5 L12,6.5 L11.7884615,6.28846154 L12,6.07692308 L11.5769231,6.07692308 L11.5,6 L11.5,6.07692308 L0.5,6.07692308 L0.5,6 L0.423076923,6.07692308 L0,6.07692308 L0.211538462,6.28846154 L0,6.5 L0.423076923,6.5 L0.5,6.57692308 L0.5,6.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,7.5 L4.77859238,7.5 L4.77859238,7.57692308 L4.85551545,7.5 L5.27859238,7.5 L5.06705391,7.28846154 L5.27859238,7.07692308 L4.85551545,7.07692308 L4.77859238,7 L4.77859238,7.07692308 L0.5,7.07692308 L0.5,7 L0.423076923,7.07692308 L0,7.07692308 L0.211538462,7.28846154 L0,7.5 L0.423076923,7.5 L0.5,7.57692308 L0.5,7.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,8.5 L0.5,17.4469496 L11.5,17.4469496 L11.5,8.5 L0.5,8.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.5,21.5 L0.5,27.5 L11.5,27.5 L11.5,21.5 L0.5,21.5 Z" id="Rectangle-6"></path>
+                    <path d="M0.957478006,27.8488064 L11.042522,27.8488064 L11.042522,27.9257294 L11.1194451,27.8488064 L11.542522,27.8488064 L11.3309835,27.6372679 L11.542522,27.4257294 L11.1194451,27.4257294 L11.042522,27.3488064 L11.042522,27.4257294 L0.957478006,27.4257294 L0.957478006,27.3488064 L0.880554929,27.4257294 L0.457478006,27.4257294 L0.669016467,27.6372679 L0.457478006,27.8488064 L0.880554929,27.8488064 L0.957478006,27.9257294 L0.957478006,27.8488064 Z" id="Rectangle-6"></path>
+                </g>
+                <rect id="Rectangle-4" stroke="#FFFFFF" x="0.5" y="0.5" width="17" height="31" rx="2"></rect>
+                <path d="M7.05039691,2.47692308 L11.7063598,2.47692308 C12.3789487,2.47692308 13.0064976,2.13885499 13.3765119,1.57719217 L13.7567568,1 L5,1 L5.38024484,1.57719217 C5.7502592,2.13885499 6.37780808,2.47692308 7.05039691,2.47692308 Z" id="Path-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <rect id="Rectangle-7" fill="#FFFFFF" x="77" y="70" width="14" height="5"></rect>
+    </g>
+</svg>
